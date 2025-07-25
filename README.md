@@ -14,3 +14,5 @@ This builds `Hello.java` into `classes.dex` and copies the dex to the raw resour
 
 You can then run the project in an emulator or on your phone and should see
 "Hello InMemoryDexClassLoader!" in the home fragment.
+
+![Screenshot showing Hello InMemoryDexClassLoader!](screenshot.png)
